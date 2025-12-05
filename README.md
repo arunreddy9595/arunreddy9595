@@ -1,6 +1,14 @@
+<!-- Decorative Coding-Themed Header -->
 <p align="center">
-  <img src="MyPic(1).jpg" alt="Arun Singireddy" width="180" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/arunreddy9595/arunreddy9595/main/MyPic%20(1).jpg" alt="Arun Singireddy" width="160" height="160" style="border-radius:50%;object-fit:cover;box-shadow:0 4px 20px #222;" />
 </p>
+<h1 align="center">
+  <span>&lt;Hello, World!&gt;</span> 👋
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=4A90E2&background=FFF0D0F0&center=true&vCenter=true&width=435&lines=Experienced+Full+Stack+Java+Developer;Building+with+Spring+Boot,+React,+AWS+%26+more!;Let's+write+clean%2C+scalable+code+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+<!-- End Decorative Header -->
 
 <h1 align="center">Hi there 👋, I'm Arun Singireddy</h1>
 <h3 align="center">Experienced Full Stack Java Developer</h3>
@@ -17,7 +25,7 @@
 
 ### 🚀 About Me
 
-With 8+ years of experience, I craft scalable, secure, and high-performance applications—specializing in Java, Spring Boot, and modern web architectures. I thrive in agile teams, advocate for clean code, and love solving complex backend, frontend, and DevOps challenges.
+With 8+ years of experience, I craft scalable, secure, and high-performance applications—specializing in Java, Spring Boot, and modern web architectures. I thrive in agile teams, advocate for clean code, and believe in lifelong learning.
 
 ---
 
